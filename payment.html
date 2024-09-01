@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payments</title>
+    <link rel="stylesheet" href="apps.css">
+</head>
+
+<body class="payment">
+    <h4>Pay Now!</h4>
+
+    <form action="/pay">
+
+        <label for="name">Payer's Name</label>
+        <textarea name="name" id="name" rows="2" cols="20" placeholder="Enter Name"></textarea>
+
+        <br>
+
+        <label for="mail">Enter Mail</label>
+        <input type="email" id="mail" required placeholder="Enter e-mail">
+
+        <br>
+
+        <label for="method">Select a Payment Method</label>
+        <select name="method" id="method">
+            <option value="Visa Card">Visa Card</option>
+            <option value="Master Card">Master Card</option>
+            <option value="E-transfer">E-transfer</option>
+        </select>
+
+        <br>
+
+        <button>submit</button>
+        </P>
+    </form>
+
+    
+</body>
+
+</html>

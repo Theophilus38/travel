@@ -1,0 +1,224 @@
+
+body {
+    background-color: #e5e5e5;
+}
+
+
+h1 {
+    text-align: center;
+    font-weight: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: #8ecae6;
+    background-color: #e63946;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome {
+    text-align: center;
+    font-size: 30px;
+    color: #14213d;
+    letter-spacing: 5px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200px;
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #14213d;
+}
+
+p {
+    line-height: 2;
+    color: #780000;
+    font-size:medium;
+}
+
+.olumo {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.olumo-rock-description {
+    text-align: center;
+    color:#780000;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200px;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ikogosi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ikogosi-description {
+    text-align: center;
+    color:#780000;
+}
+
+.lekki {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lekki-conservation-centre-description {
+    text-align: center;
+    color:#780000;
+}
+
+.museum {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.natioanl-museum-description {
+    text-align: center;
+    color: #780000;
+}
+
+.zuma {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Zuma-rock-description {
+    text-align:center;
+    color:#780000;
+}
+
+.destinations {
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color:aqua;  
+}
+
+.location {
+    color: black;
+}
+
+.select-price {
+    color: black;
+}
+
+.price {
+    color: black;
+}
+
+.search {
+    color: #14213d;
+    font-size: larger;
+}
+
+.date {
+    color:#14213d
+}
+
+.payment {
+    background-color:#e5e5e5
+}
+
+h4 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+.review {
+    color: blue;
+    text-align:left;
+}
+
+h5 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.review {
+    text-align: center;
+    font-size: large;
+}
+
+.review :hover {
+    color:#e07a5f;
+}
+
+.review:active {
+   background-color:black;
+}
+
+#submit {
+   background-color: #e63946;
+}
+
+.inquiries {
+    color: blue;
+    font-size: larger;
+}
+
+#fill {
+    color: black;
+}
+
+.contact {
+    text-align: center;
+    font-size: larger;
+}
+
+.contacts {
+    text-align: left;
+    letter-spacing: normal;
+}
+
+.social {
+    text-align: left;
+    font-style: italic;
+}
+
+.star-rating {
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+}
+
+.star {
+    color:#e07a5f;
+}
+
+.star:hover {
+    color: black;
+}
+
+.star :active {
+    color: goldenrod;
+}
+
+.rate-button {
+    display: flex;
+    justify-content: center;
+}
